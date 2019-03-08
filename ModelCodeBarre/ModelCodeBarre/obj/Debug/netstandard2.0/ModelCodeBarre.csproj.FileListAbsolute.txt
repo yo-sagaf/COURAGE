@@ -1,0 +1,9 @@
+C:\Travail\L.PERENA\ModelCodeBarre\ModelCodeBarre\bin\Debug\netstandard2.0\ModelCodeBarre.deps.json
+C:\Travail\L.PERENA\ModelCodeBarre\ModelCodeBarre\bin\Debug\netstandard2.0\ModelCodeBarre.dll
+C:\Travail\L.PERENA\ModelCodeBarre\ModelCodeBarre\bin\Debug\netstandard2.0\ModelCodeBarre.pdb
+C:\Travail\L.PERENA\ModelCodeBarre\ModelCodeBarre\obj\Debug\netstandard2.0\ModelCodeBarre.csprojAssemblyReference.cache
+C:\Travail\L.PERENA\ModelCodeBarre\ModelCodeBarre\obj\Debug\netstandard2.0\ModelCodeBarre.csproj.CoreCompileInputs.cache
+C:\Travail\L.PERENA\ModelCodeBarre\ModelCodeBarre\obj\Debug\netstandard2.0\ModelCodeBarre.AssemblyInfoInputs.cache
+C:\Travail\L.PERENA\ModelCodeBarre\ModelCodeBarre\obj\Debug\netstandard2.0\ModelCodeBarre.AssemblyInfo.cs
+C:\Travail\L.PERENA\ModelCodeBarre\ModelCodeBarre\obj\Debug\netstandard2.0\ModelCodeBarre.dll
+C:\Travail\L.PERENA\ModelCodeBarre\ModelCodeBarre\obj\Debug\netstandard2.0\ModelCodeBarre.pdb

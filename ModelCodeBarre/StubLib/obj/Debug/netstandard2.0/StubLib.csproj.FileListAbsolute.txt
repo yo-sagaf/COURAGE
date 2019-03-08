@@ -1,0 +1,12 @@
+C:\Travail\L.PERENA\ModelCodeBarre\StubLib\bin\Debug\netstandard2.0\StubLib.deps.json
+C:\Travail\L.PERENA\ModelCodeBarre\StubLib\bin\Debug\netstandard2.0\StubLib.dll
+C:\Travail\L.PERENA\ModelCodeBarre\StubLib\bin\Debug\netstandard2.0\StubLib.pdb
+C:\Travail\L.PERENA\ModelCodeBarre\StubLib\bin\Debug\netstandard2.0\ModelCodeBarre.dll
+C:\Travail\L.PERENA\ModelCodeBarre\StubLib\bin\Debug\netstandard2.0\ModelCodeBarre.pdb
+C:\Travail\L.PERENA\ModelCodeBarre\StubLib\obj\Debug\netstandard2.0\StubLib.csprojAssemblyReference.cache
+C:\Travail\L.PERENA\ModelCodeBarre\StubLib\obj\Debug\netstandard2.0\StubLib.csproj.CoreCompileInputs.cache
+C:\Travail\L.PERENA\ModelCodeBarre\StubLib\obj\Debug\netstandard2.0\StubLib.AssemblyInfoInputs.cache
+C:\Travail\L.PERENA\ModelCodeBarre\StubLib\obj\Debug\netstandard2.0\StubLib.AssemblyInfo.cs
+C:\Travail\L.PERENA\ModelCodeBarre\StubLib\obj\Debug\netstandard2.0\StubLib.csproj.CopyComplete
+C:\Travail\L.PERENA\ModelCodeBarre\StubLib\obj\Debug\netstandard2.0\StubLib.dll
+C:\Travail\L.PERENA\ModelCodeBarre\StubLib\obj\Debug\netstandard2.0\StubLib.pdb

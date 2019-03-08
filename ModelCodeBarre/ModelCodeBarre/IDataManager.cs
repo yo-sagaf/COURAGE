@@ -4,9 +4,12 @@ using System.Text;
 
 namespace ModelCodeBarre
 {
-    class IDataManager
+    public interface IDataManager
     {
+        Article findArticle(String codeBarre);
+        List<Article> getArticles();
+        bool addArticle(Article article);
 
-        //public Article getArticles();
+
     }
 }

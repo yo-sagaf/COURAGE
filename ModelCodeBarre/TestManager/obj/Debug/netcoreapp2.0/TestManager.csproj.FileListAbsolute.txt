@@ -1,0 +1,16 @@
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\bin\Debug\netcoreapp2.0\TestManager.deps.json
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\bin\Debug\netcoreapp2.0\TestManager.runtimeconfig.json
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\bin\Debug\netcoreapp2.0\TestManager.runtimeconfig.dev.json
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\bin\Debug\netcoreapp2.0\TestManager.dll
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\bin\Debug\netcoreapp2.0\TestManager.pdb
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\bin\Debug\netcoreapp2.0\ModelCodeBarre.dll
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\bin\Debug\netcoreapp2.0\StubLib.dll
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\bin\Debug\netcoreapp2.0\ModelCodeBarre.pdb
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\bin\Debug\netcoreapp2.0\StubLib.pdb
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\obj\Debug\netcoreapp2.0\TestManager.csprojAssemblyReference.cache
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\obj\Debug\netcoreapp2.0\TestManager.csproj.CoreCompileInputs.cache
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\obj\Debug\netcoreapp2.0\TestManager.AssemblyInfoInputs.cache
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\obj\Debug\netcoreapp2.0\TestManager.AssemblyInfo.cs
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\obj\Debug\netcoreapp2.0\TestManager.csproj.CopyComplete
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\obj\Debug\netcoreapp2.0\TestManager.dll
+C:\Travail\L.PERENA\ModelCodeBarre\TestManager\obj\Debug\netcoreapp2.0\TestManager.pdb
