@@ -6,6 +6,7 @@ namespace ModelCodeBarre
 {
     class IDataManager
     {
-        
+
+        //public Article getArticles();
     }
 }
