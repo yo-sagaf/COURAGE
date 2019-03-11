@@ -1,13 +1,13 @@
 ﻿using ModelCodeBarre;
 using System;
 
-namespace TestManager
+namespace Test_Api_Manager
 {
-    class Program
+    class test_apimanager
     {
         static void Main(string[] args)
         {
-            Manager mgr = new Manager(new ApiLib.ApiDataManager());
+            Manager mgr = new Manager(new ApiLib.DbDataManager());
 
             var article = mgr.findArticle("AAAA");
 

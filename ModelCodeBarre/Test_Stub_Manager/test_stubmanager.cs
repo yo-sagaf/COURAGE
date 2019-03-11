@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using ModelCodeBarre;
-
+using StubLib;
 
 namespace Test_Stub_Manager
 {
