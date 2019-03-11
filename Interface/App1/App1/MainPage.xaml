@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App1"
+             x:Class="App1.MainPage">
+
+
+    <Grid>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="8*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        
+            
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+            
+        <Button Text="Retour" Grid.ColumnSpan="3" HorizontalOptions="Start" BackgroundColor="Gray"/>
+        <Entry Grid.Row="1" Grid.Column="1" x:Name="rechercheEntry" Placeholder="recherche" Keyboard="Text" />
+
+        <StackLayout Grid.Column="1" Grid.Row="2">
+            <Label Text="Articles"></Label>
+            <ListView x:Name="listeArticles">
+                <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <Grid>
+                                <Label Grid.Column="1" Text="{Binding Nom}"></Label>
+                                <Label Grid.Column="2" Text="{Binding Nombre}"></Label>
+                            </Grid>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+
+    </Grid>
+</ContentPage>
